@@ -14,7 +14,7 @@
 
     $prenom = "Mehdi";
     $reponse = "Tu veux un café";
-    echo "<h1>Salut $prenom, comment ca va ? $reponse !</h1>";
+    echo "<p>Salut $prenom, comment ca va ? $reponse !</p>";
     ?>
     
 </body>
